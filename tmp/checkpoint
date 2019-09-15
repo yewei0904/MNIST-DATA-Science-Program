@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/Users/yewei0904/PycharmProjects/mitresearch/venv/model.ckpt"
+all_model_checkpoint_paths: "D:/Users/yewei0904/PycharmProjects/mitresearch/venv/model.ckpt"
