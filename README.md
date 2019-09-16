@@ -5,6 +5,7 @@ In this project, I mainly learn how to save and read data. After training the ne
 
 ## DEMO
 ![img](https://github.com/yewei0904/MNIST-DATA-Science-Program/blob/master/info/gifhome_1920x1080_10s.gif)
+![image](https://github.com/yewei0904/MNIST-DATA-Science-Program/blob/master/info/1568610394(1).jpg)
 
 ## Background
 To save and restore, you need to instantiate a tf.train.saver.
