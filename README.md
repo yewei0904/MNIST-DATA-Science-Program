@@ -184,3 +184,5 @@ with tf.Session() as sess:
     print('recognize result:')
     print(predint[0])
 ```
+![image](https://github.com/yewei0904/MNIST-DATA-Science-Program/blob/master/info/1568610348(1).jpg)
+![image](https://github.com/yewei0904/MNIST-DATA-Science-Program/blob/master/info/1568610394(1).jpg)
